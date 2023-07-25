@@ -5,4 +5,5 @@ feedformat: card
 title: Digital Garden
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+All notes are pulled from my local Obsidian vault. Any pages marked as "growing" will likely be unopinionated and
+incomplete as they are topics I don't yet understand.

@@ -1,6 +1,7 @@
 ---
 title: M1 Mac Applications
 date: 07-25-2023
+feed: show
 type: list
 ---
 - Window Managment: [Magnet](https://magnet.crowdcafe.com)
@@ -10,3 +11,5 @@ type: list
 - RSS: Reader
 - IRC: [Textual](https://www.codeux.com/textual/)
 - Chat: Discord / Slack
+- Diagraming: [Draw.io](https://www.drawio.com)
+- 

@@ -1,6 +1,6 @@
 ---
 title: M1 Mac Applications
-date: 7-24-2023
+date: 11-05-2022
 feed: show
 type: list
 ---
